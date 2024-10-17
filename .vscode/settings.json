@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.page-template": "vue",
+        "*.layout-template": "vue",
+        "*.vue": "vue",
+        "lvgl.h": "c",
+        "wifi.h": "c",
+        "ui_helpers.h": "c",
+        "ui.h": "c"
+    }
+}
